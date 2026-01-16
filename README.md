@@ -40,6 +40,6 @@
 - **Email:** [jacksimms77@gmail.com](mailto:jacksimms77@gmail.com)
 - **LinkedIn:** [linkedin.com/in/jacksimms77](https://www.linkedin.com/in/jacksimms77)
 - **GitHub:** [github.com/SoftwareSimms](https://github.com/SoftwareSimms)
-- **Personal Site:** [softwaresimms.github.io](https://softwaresimms.github.io/softwaresimms/)
+- **Personal Site:** [softwaresimms.github.io](https://softwaresimms.github.io/SoftwareSimms/)
 
 Feel free to explore my repositories and connect with me to discuss potential collaborations or opportunities!
